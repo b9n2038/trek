@@ -2,6 +2,8 @@
 RSP: https://sourabhbajaj.com/mac-setup/Git/
 RSP: Reasonable starting point.
 
+
+
 ## 1password
 - https://support.1password.com/command-line-getting-started/
 
